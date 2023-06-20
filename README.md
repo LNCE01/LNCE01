@@ -26,7 +26,7 @@
 <br>
 <br>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LNCE01&hide_progress=true"/>
+/*<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LNCE01&hide_progress=true"/> */
 </p>
 
 
