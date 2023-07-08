@@ -1,6 +1,8 @@
 <h2 align="center">Hello & Welcome.</h2>
 <h4 align="center">
-I'm Nicolas, I'm currently learning fullstack development with a focus on the entire front-end spectrum (JavaScript and React). 
+I'm Nicolas, 
+<br>
+I'm currently learning fullstack development with a focus on the entire front-end spectrum (JavaScript and React). 
 <br>
 I have a great passion for IT, that's why I'm constantly learning and improving my skills. 
 <br>
